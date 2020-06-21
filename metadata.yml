@@ -1,0 +1,14 @@
+---
+:id: 32103807
+:submitters:
+- :name: Arnav Kumar Gupta
+  :email: agupta8@uw.edu
+- :name: Hao Doan
+  :email: hntd@uw.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-03-16 16:08:57.644119000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-03-16 09:08:57.644119000 Z
+:status: processed
+:score: 68.0
